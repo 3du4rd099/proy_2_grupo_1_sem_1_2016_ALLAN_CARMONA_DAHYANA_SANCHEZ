@@ -1,5 +1,8 @@
 `timescale 1ns / 1ps
 
+
+//PRUEBAAAA!!!!!!!!!!!!!!!!!
+
 module Ajuste_cronometro(
 	 input wire clk,
     input wire rst,
